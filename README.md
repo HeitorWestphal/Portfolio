@@ -4,7 +4,7 @@ Portfólio do técnico do Heitor Della Barba Wesatphal.
 # Sobre mim:
 Meu nome é Heitor Della Barba Westphal, tenho 15 anos, moro em Santa Catarina, Brasil, faço o ensino medico tecnico de desenvolvimento de sistemas no Senai.
 
-#  O que encontraremos nesse repositór:
+#  O que encontraremos nesse repositório:
 Meu portifolio do 2° e 3° ano do ensino médio do Senai.
 
 # O que encontramos aqui? 

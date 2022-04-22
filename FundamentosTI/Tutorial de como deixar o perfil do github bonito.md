@@ -75,3 +75,8 @@ Para isso você vai precisar desses comandos:
 ![Aspose Words 01ab7387-30c3-4073-aef0-ebc53cc14870 001](https://user-images.githubusercontent.com/102591958/164734389-571d0c26-d5ba-4782-8877-af97a1d9a001.png)
 
 * Onde está circulado de vermelho você deve colocar seu usuário do Instagram. Onde está circulado de amarelo você deve colocar seu usuário da twitch. Onde está circulado de azul você deve colocar o link do seu servidor do discord (Lembre-se de colocar um link que não expire). Onde está sublinhado de verde você deve colocar seu email.
+
+E é isso, o tutorial da cobrinha fica para outro dia, Obrigado por ler.
+
+![200](https://user-images.githubusercontent.com/102591958/164745059-b7d39ef0-edcb-4d19-8c46-64c6a431fe1d.gif)
+

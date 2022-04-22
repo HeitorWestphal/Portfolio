@@ -14,3 +14,5 @@ Depois de selecionar a lingua aparece um monte de ebooks grates para aprender so
 ![Aspose Words dbe1e8ad-6232-4247-934b-4a71db38782e 001](https://user-images.githubusercontent.com/102591958/164710924-f4cadd0e-a5bb-4194-bed9-084cb65cb256.png)
 
 E é isso. Bom estudos. 
+
+![anime-victory-gif-11](https://user-images.githubusercontent.com/102591958/164714347-360a5f06-5c96-4444-a4b6-693d87f096f8.gif)

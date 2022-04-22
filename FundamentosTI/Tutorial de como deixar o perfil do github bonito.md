@@ -20,13 +20,13 @@ Criar um novo repositório com o mesmo nome do seu perfil
 ![Aspose Words cb83816f-3fcd-4068-9cfb-c1b0beadcffd 001](https://user-images.githubusercontent.com/102591958/164725790-ceae4c28-47f1-46fc-ab06-73642ba042f9.png)
 
 (O meu apareceu um aviso mas é porque eu já tenho um repositório com o meu nome).
-E lembre-se de colocor público e adicionar o README
+E lembre-se de colocar público e adicionar o README
 
 * *Terceiro passo*
 
 Colocar algumas informações pessoais
 
-(Para colocar emoji no windows é so apertar no botão do windows mais .)
+(Para colocar emoji no windows é so apertar no botão do windows + .)
 
 ![Aspose Words c334a2a5-9df8-443e-85e1-01f75ab63a13 001](https://user-images.githubusercontent.com/102591958/164726744-e640b0b7-2471-4cd9-893f-f32f022873ce.png)
 

@@ -9,7 +9,7 @@ E o tipo de linguagem de programação que você quer aprender.
 
 ![Aspose Words 69dc8775-98e6-48f9-8aae-c1cf3003e051 001](https://user-images.githubusercontent.com/102591958/164710518-6532b31c-1c9b-4710-aeb8-837923c32571.png)
 
-Depois de selecionar a lingua aparece um monte de ebooks gratis sobre a lingua que você quer aprender.
+Depois de selecionar a lingua aparece um monte de ebooks gratis sobre a linguagem que você quer aprender.
 
 ![Aspose Words dbe1e8ad-6232-4247-934b-4a71db38782e 001](https://user-images.githubusercontent.com/102591958/164710924-f4cadd0e-a5bb-4194-bed9-084cb65cb256.png)
 

@@ -1,4 +1,4 @@
-## Olá, meu nome é Heitor Westphal e hoje vou apresentar um repositorio muito "delicinha" para aprender a programar. 
+## Olá, Hoje vou apresentar um repositorio muito "delicinha" para aprender a programar. 
 E o nome do repositorio é free-programming-books.
 Nele você encontra todo tipo de lingua desde o inglês até o português.
 

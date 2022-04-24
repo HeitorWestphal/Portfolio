@@ -1,5 +1,5 @@
 ## Como fazer um perfil bonitinho no GitHub
-Olá, meu nome é Heitor Westphal e hoje vou mostrar como fazer um perfil bonito no GitHub.
+Olá, Hoje vou mostrar como fazer um perfil bonito no GitHub.
 
 ![Aspose Words c964805b-5e5d-4268-b84f-1f28acdabd1a 001](https://user-images.githubusercontent.com/102591958/164723492-3a627612-b605-4e26-8512-9716d7869242.png)
 

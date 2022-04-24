@@ -11,10 +11,8 @@ Meu portifolio do 2° e 3° ano do ensino médio do Senai.
 - [X] Fundamentos do Design
 - [x] Fundamentos do TI
 - [x] Lógica Computacional
-- [ ] ~~Porno Gay~~
-- [ ] ~~Pedro Dias~~
-- [ ] Minecraft
-- [x] Minecraft 2
+- [ ] Minecraft 2
+- [ ] One Piece
 ##
 ![4d94d7fad14fa5c4171710cef5364bed37ee3128_hq](https://user-images.githubusercontent.com/102591958/163992297-c8843970-b8c4-40bc-a4a9-3a0722265e7b.gif)
 

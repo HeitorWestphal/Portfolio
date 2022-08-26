@@ -1,1 +1,0 @@
-O cabo de par trançado tem largura de banda baixa. O cabo coaxial tem largura de banda moderadamente alta. O cabo de fibra óptica tem uma largura de banda muito alta.

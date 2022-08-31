@@ -11,6 +11,7 @@ Meu portifolio do 2° e 3° ano do ensino médio do Senai.
 - [X] Fundamentos do Design
 - [x] Fundamentos do TI
 - [x] Lógica Computacional
+- [X] Fundamentos de Rede
 - [ ] Minecraft 2
 - [ ] One Piece
 ##
